@@ -1,3 +1,11 @@
+.topper {
+    display: flex;
+    justify-content: center;
+}
+.bodywork {
+    display: flex;
+    justify-content: center;
+}
 .main {
     display: flex;
     flex-direction: column;
